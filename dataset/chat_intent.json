@@ -1,0 +1,1154 @@
+[
+  {
+    "command": ["halo"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["hai"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["halo", "bro"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["bro"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["hello"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["yo"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["hey"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["selamat", "pagi"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["halo", "bima", "bot"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["apa", "kabar"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["p"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["woi"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["selamat", "siang"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["selamat", "sore"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["selamat", "malam"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["bagaimana", "kabar", "anda"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["semoga", "hari", "anda", "menyenangkan"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["senang", "bertemu", "dengan", "anda"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["salam", "sejahtera"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["perkenalkan", "saya"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["apa", "yang", "bisa", "saya", "bantu"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["halo", "apa", "kabar"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["hai", "gimana", "kabarnya"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["apa", "kabar", "bro"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["apa", "kabar", "sis"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["waduh", "lama", "nggak", "ketemu"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["gimana", "nih"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["lagi", "apa"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["hai", "ada", "waktu"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["selamat", "pagi", "cuy"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["halo", "teman", "-", "teman"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["yo", "gimana", "kabarnya"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["hai", "semuanya"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["eh", "ada", "kabar", "baru", "nggak"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["apa", "kabar", "gengs"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["halo", "sis"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["gimana", "kabarnya", "teman"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["bro", "apa", "kabar"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["sis", "gimana", "nih"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["gengs", "pada", "ngapain"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["yoo", "santuy"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["woy", "lama", "nggak", "chat"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["cuy", "gimana", "kabarnya"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["halo", "gaess"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["eh", "gimana", "bro"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["hey", "sis"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["gimana", "kabarnya", "sob"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["halo", "temen", "-", "temen", "kece"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["hai", "para", "jomblo", "kece"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["apa", "kabar", "squad"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["santuy", "aja", "bro"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["sip", "gimana", "kabarnya"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["halo", "guys"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["hey", "geng"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["bro", "lagi", "sibuk"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["sis", "gimana", "hari", "ini"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["woi", "pada", "sehat", "kan"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["yo", "gimana", "semuanya"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["halo", "piye", "kabarmu"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["piye", "kabare"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["yo", "piye"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["wes", "suwe", "ora", "ketemu"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["halo", "kanca"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["piye", "kabarmu", "saiki"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["sehat", "ta"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["halo", "rek"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["sugeng", "rawuh"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["yo", "ayo", "cekak"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["good", "morning"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["good", "afternoon"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["good", "evening"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["how", "do", "you", "do"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["how", "have", "you", "been"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["it", "s", "a", "pleasure", "to", "meet", "you"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["i", "hope", "you", "re", "doing", "well"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["how", "are", "you", "today"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["greetings"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["i", "trust", "all", "is", "well"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["hi", "there"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["what", "s", "up"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["hey", "how", "s", "it", "going"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["what", "s", "new"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["how", "s", "everything"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["how", "you", "doing"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["long", "time", "no", "see"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["hey", "buddy"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["hiya"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["sup"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["hey", "there", "friend"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["howdy"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["hey", "what", "s", "good"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["hey", "mate"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["hey", "dude"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["what", "s", "crackin"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["how", "s", "life", "treating", "you"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["hey", "how", "ya", "been"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["yo", "whats", "up", "dude"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["hey", "man", "hows", "shit"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["wassup", "bro"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["yo", "you", "good", "or", "what"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["hey", "asshole", "just", "kiddin"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["whats", "crackin", "fool"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["yo", "whats", "poppin"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["hey", "dipshit", "how", "you", "doin"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["yo", "motherf", "*", "*", "*", "er", "just", "messing"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["hey", "dumbass", "long", "time", "no", "see"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["sup", "bitch"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["yo", "you", "alive", "or", "what"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["hey", "prick", "whats", "good"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["whats", "up", "bastard"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["yo", "you", "crazy", "motherf", "*", "*", "*", "er"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["hey", "son", "of", "a", "bitch"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["yo", "punk", "hows", "life"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["whats", "up", "you", "bastard"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["hey", "schmuck", "hows", "it", "hanging"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["yo", "shithead", "where", "you", "been"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["oh", "look", "whos", "here"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["you", "again", "huh"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["still", "alive", "i", "see"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["well", "well", "well"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["guess", "who"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["miss", "me", "much"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["nice", "to", "see", "you", "barely"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["look", "who", "finally", "showed", "up"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["hey", "genius"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["surprise", "idiot"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["back", "so", "soon"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["long", "time", "no", "screw", "up"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["you", "made", "it", "somehow"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["still", "clueless", "huh"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["hey", "troublemaker"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["back", "at", "it", "huh"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["nice", "try", "loser"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["youre", "here", "great"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["hey", "hot", "mess"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["back", "from", "the", "dead"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["finally"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["you", "again"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["surprise"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["look", "alive"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["still", "here"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["oh", "great"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["wow", "wow"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["miss", "me"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["still", "dumb"],
+    "type_command": "greeting"
+  },
+  {
+    "command": ["halo", "nama", "kamu", "siapa"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["woi", "nama", "kamu", "siapa"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["hai", "boleh", "kenalan"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["kenalan", "boleh"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["kenalan", "ya"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["namamu", "siapa"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["boleh", "kenalan"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["siapa", "nama", "anda"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["boleh", "tahu", "nama", "anda"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["siapa", "namamu"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["nama", "kamu", "siapa"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["boleh", "tahu", "namamu"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["namamu", "siapa", "bro"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["eh", "siapa", "namamu"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["lu", "siapa"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["nama", "lo", "siapa"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["siapa", "nih", "namanya"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["kenalin", "dong", "namanya", "siapa"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["siapa", "lu"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["bro", "nama", "lo", "siapa"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["anda", "siapa"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["nama", "anda", "siapa"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["siapa", "kamu"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["kamu", "siapa"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["kamu", "siapa", "ya"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["kamu", "siapa", "sih"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["lu", "ini", "siapa"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["jenengmu", "sopo"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["sopo", "jenengmu"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["jenengmu", "opo"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["sopo", "kowe"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["jenengmu", "piye"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["kowe", "sopo"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["sopo", "jenenge"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["what", "s", "your", "name", "btw"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["boleh", "know", "your", "name", "gak"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["hi", "nama", "kamu", "siapa", "if", "i", "may", "ask"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["can", "i", "know", "your", "name"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["kenalin", "dong", "what", "s", "your", "name"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["by", "the", "way", "who", "am", "i", "talking", "to"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["so", "you", "re"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["nama", "kamu", "siapa", "nih", "legit", "banget", "vibes", "-", "nya"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["mind", "if", "i", "ask", "your", "name"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["wait", "belum", "kenalan", "nih", "siapa", "namanya"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["jenengmu", "sopo", "to"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["eh", "kowe", "jenenge", "sopo"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["jenenge", "sopo"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["sopo", "jenengmu", "cuk"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["cok", "jenengmu", "sopo"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["jenengmu", "sopo", "rek"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["what", "s", "your", "name"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["may", "i", "know", "your", "name"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["who", "are", "you"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["what", "s", "your", "name", "again"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["can", "i", "get", "your", "name"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["name", "please"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["you", "are"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["mind", "telling", "me", "your", "name"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["so", "what", "s", "your", "name"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["how", "should", "i", "call", "you"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["and", "you", "are"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["who", "am", "i", "talking", "to"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["who", "is", "this"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["go", "by", "any", "name"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["tell", "me", "your", "name", "maybe"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["who", "the", "hell", "are", "you"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["and", "you", "are", "what", "exactly"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["whats", "your", "damn", "name"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["mind", "telling", "me", "your", "name", "genius"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["you", "got", "a", "name", "or", "what"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["what", "do", "people", "even", "call", "you"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["name", "dude", "or", "nah"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["so", "what", "should", "i", "call", "you", "oh", "mighty", "one"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["you", "got", "a", "name", "or", "just", "vibes"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["do", "you", "even", "have", "a", "name"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["who", "dis"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["tell", "me", "your", "name", "or", "make", "one", "up"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["what", "s", "your", "name", "legend"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["the", "fuck", "should", "i", "call", "you"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["let", "me", "guess", "you", "forgot", "your", "own", "name"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["yo", "whats", "yo", "name"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["ayo", "who", "you", "be"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["what", "they", "call", "you"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["say", "whats", "your", "name", "fam"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["name", "drop", "bruh"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["aight", "who", "you", "is"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["you", "got", "a", "name", "homie"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["tell", "me", "yo", "name", "real", "quick"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["so", "what", "they", "callin", "you"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["what", "up", "whats", "your", "name"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["yo", "name", "fam"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["ey", "vato", "what", "s", "your", "name"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["mo", "te", "llamas", "homie"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["so", "whats", "your", "name", "ese"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["who", "you", "be", "bro"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["whats", "up", "carnal", "whats", "your", "name"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["name", "fool"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["orale", "tell", "me", "your", "name"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["yo", "how", "you", "called", "man"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["they", "call", "you", "what", "bro"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["whats", "your", "name", "loco"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["c", "mo", "te", "llamas"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["cu", "l", "es", "tu", "nombre"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["qui", "n", "eres"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["c", "mo", "te", "dicen"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["y", "t", "qui", "n", "eres"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["tienes", "nombre", "o", "qu"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["c", "mo", "te", "llamas", "amigo"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["y", "ese", "nombre", "qu"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["c", "mo", "se", "llama", "este", "guapo"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["c", "mo", "se", "llama", "la", "reina", "aqu"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["qui", "n", "chingados", "eres"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["cu", "l", "es", "tu", "pinche", "nombre"],
+    "type_command": "introduce"
+  },
+  {
+    "command": ["berapa"],
+    "type_command": "general_questions"
+  },
+  {
+    "command": ["hari", "ini", "hari", "apa"],
+    "type_command": "general_questions"
+  },
+  {
+    "command": ["jadi", "berapa", "ini"],
+    "type_command": "general_questions"
+  },
+  {
+    "command": ["jika", "dijumlahkan", "jadi", "berapa"],
+    "type_command": "general_questions"
+  },
+  {
+    "command": ["kamu", "ini", "apa"],
+    "type_command": "general_questions"
+  },
+  {
+    "command": ["berapa", "jumlah"],
+    "type_command": "general_questions"
+  },
+  {
+    "command": ["jumlah", "dari"],
+    "type_command": "general_questions"
+  },
+  {
+    "command": ["ini", "berapa"],
+    "type_command": "general_questions"
+  },
+  {
+    "command": ["jumlahkan", "ini"],
+    "type_command": "general_questions"
+  },
+  {
+    "command": ["berapa", "ini"],
+    "type_command": "general_questions"
+  },
+  {
+    "command": ["ini", "jumlah", "nya", "berapa"],
+    "type_command": "general_questions"
+  },
+  {
+    "command": ["hasil", "dari"],
+    "type_command": "general_questions"
+  },
+  {
+    "command": ["berapa", "hasil"],
+    "type_command": "general_questions"
+  },
+  {
+    "command": ["berapa", "hasil", "dari"],
+    "type_command": "general_questions"
+  },
+  {
+    "command": ["hasilnya", "berapa"],
+    "type_command": "general_questions"
+  },
+  {
+    "command": ["terima", "kasih"],
+    "type_command": "thank_you"
+  },
+  {
+    "command": ["makasih", "ya"],
+    "type_command": "thank_you"
+  },
+  {
+    "command": ["thank", "you"],
+    "type_command": "thank_you"
+  },
+  {
+    "command": ["thanks"],
+    "type_command": "thank_you"
+  },
+  {
+    "command": ["thx"],
+    "type_command": "thank_you"
+  },
+  {
+    "command": ["thx", "ya"],
+    "type_command": "thank_you"
+  },
+  {
+    "command": ["terima", "kasih", "ya"],
+    "type_command": "thank_you"
+  },
+  {
+    "command": ["makasih", "bro"],
+    "type_command": "thank_you"
+  },
+  {
+    "command": ["makasih", "bima"],
+    "type_command": "thank_you"
+  },
+  {
+    "command": ["thank", "you", "bima"],
+    "type_command": "thank_you"
+  },
+  {
+    "command": ["terima", "kasih", "bima"],
+    "type_command": "thank_you"
+  },
+  {
+    "command": ["makasih", "bima", "bot"],
+    "type_command": "thank_you"
+  },
+  {
+    "command": ["thank", "you", "bima", "bot"],
+    "type_command": "thank_you"
+  },
+  {
+    "command": ["thanks", "bima", "bot"],
+    "type_command": "thank_you"
+  },
+  {
+    "command": ["terima", "kasih", "bima", "bot"],
+    "type_command": "thank_you"
+  }
+]
