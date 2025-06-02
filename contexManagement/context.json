@@ -1,0 +1,8 @@
+{
+  "intent": "yes_response",
+  "state": "wait_respon_user",
+  "entities": {
+    "PERSON": ["Bima"],
+    "GPE": []
+  }
+}
