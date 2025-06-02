@@ -1,0 +1,4 @@
+My code works perfectly on my machine... the problem is, it's a quantum computer and I'm still trying to debug the multiverse.
+I tried to optimize my code today. It's now 10% faster at crashing
+My code isn't buggy, it's just really enthusiastic about exploring edge cases
+I'm not saying my code is bad, but it just asked me for a raise
