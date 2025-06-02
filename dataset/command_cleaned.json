@@ -1,0 +1,4446 @@
+[
+  {
+    "command": "hai",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo",
+    "type_command": "greeting"
+  },
+  {
+    "command": "selamat pagi",
+    "type_command": "greeting"
+  },
+  {
+    "command": "selamat siang",
+    "type_command": "greeting"
+  },
+  {
+    "command": "selamat sore",
+    "type_command": "greeting"
+  },
+  {
+    "command": "selamat malam",
+    "type_command": "greeting"
+  },
+  {
+    "command": "selamat datang",
+    "type_command": "greeting"
+  },
+  {
+    "command": "apa kabar",
+    "type_command": "greeting"
+  },
+  {
+    "command": "assalamualaikum",
+    "type_command": "greeting"
+  },
+  {
+    "command": "waalaikumsalam",
+    "type_command": "greeting"
+  },
+  {
+    "command": "salam sejahtera",
+    "type_command": "greeting"
+  },
+  {
+    "command": "salam hormat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "salam kenal",
+    "type_command": "greeting"
+  },
+  {
+    "command": "salam hangat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai semuanya",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo semuanya",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai temanteman",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo temanteman",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai sahabat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo sahabat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai kawan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo kawan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai rekan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo rekan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai sobat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo sobat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai saudara",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo saudara",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai pak",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo pak",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai bu",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo bu",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai mas",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo mas",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai mbak",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo mbak",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai kakak",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo kakak",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai adik",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo adik",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai bapak",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo bapak",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai ibu",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo ibu",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai abang",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo abang",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai nona",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo nona",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai tuan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo tuan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai nyonya",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo nyonya",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai om",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo om",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai tante",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo tante",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai bos",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo bos",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai teman",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo teman",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai rakyat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo rakyat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai orangorang",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo orangorang",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai masyarakat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo masyarakat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai warga",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo warga",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai saudari",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo saudari",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai bapak ibu",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo bapak ibu",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai bapak ibu sekalian",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo bapak ibu sekalian",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai bapak ibu dan saudarasaudara sekalian",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo bapak ibu dan saudarasaudara sekalian",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai bapak ibu dan saudarasaudara",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo bapak ibu dan saudarasaudara",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai bapak ibu dan saudara",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo bapak ibu dan saudara",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai bapak ibu dan adikadik",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo bapak ibu dan adikadik",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai bapak ibu dan rekanrekan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo bapak ibu dan rekanrekan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai bapak ibu dan temanteman",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo bapak ibu dan temanteman",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai bapak ibu dan sahabat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo bapak ibu dan sahabat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai bapak ibu dan kawan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo bapak ibu dan kawan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai bapak ibu dan sobat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo bapak ibu dan sobat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai bapak ibu dan seluruh masyarakat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo bapak ibu dan seluruh masyarakat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai bapak ibu dan seluruh warga",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo bapak ibu dan seluruh warga",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai bapak ibu dan seluruh saudara",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo bapak ibu dan seluruh saudara",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai bapak ibu dan seluruh sahabat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo bapak ibu dan seluruh sahabat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai bapak ibu dan seluruh teman",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo bapak ibu dan seluruh teman",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai seluruh sahabat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo seluruh sahabat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai seluruh kawan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo seluruh kawan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai seluruh teman",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo seluruh teman",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai seluruh sobat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo seluruh sobat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai seluruh saudara",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo seluruh saudara",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai seluruh rekan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo seluruh rekan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai seluruh rakyat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo seluruh rakyat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai seluruh masyarakat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo seluruh masyarakat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hai seluruh warga",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo seluruh warga",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hey",
+    "type_command": "greeting"
+  },
+  {
+    "command": "heii",
+    "type_command": "greeting"
+  },
+  {
+    "command": "helo",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hi",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hy",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hallo",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halloo",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hallooo",
+    "type_command": "greeting"
+  },
+  {
+    "command": "selamat berjumpa",
+    "type_command": "greeting"
+  },
+  {
+    "command": "kabar baik",
+    "type_command": "greeting"
+  },
+  {
+    "command": "kabar baik juga",
+    "type_command": "greeting"
+  },
+  {
+    "command": "kabar baik sekali",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hey bro",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hey sis",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo bro",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo sis",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo semua",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo teman teman",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo kawan kawan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo saudara saudari",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hey broo",
+    "type_command": "greeting"
+  },
+  {
+    "command": "hey siis",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo broo",
+    "type_command": "greeting"
+  },
+  {
+    "command": "halo siis",
+    "type_command": "greeting"
+  },
+  {
+    "command": "woi bro",
+    "type_command": "greeting"
+  },
+  {
+    "command": "woi sis",
+    "type_command": "greeting"
+  },
+  {
+    "command": "woi cuy",
+    "type_command": "greeting"
+  },
+  {
+    "command": "woi sob",
+    "type_command": "greeting"
+  },
+  {
+    "command": "woy gan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "woy bos",
+    "type_command": "greeting"
+  },
+  {
+    "command": "woy bray",
+    "type_command": "greeting"
+  },
+  {
+    "command": "woy coy",
+    "type_command": "greeting"
+  },
+  {
+    "command": "woy bre",
+    "type_command": "greeting"
+  },
+  {
+    "command": "woy men",
+    "type_command": "greeting"
+  },
+  {
+    "command": "woi jang",
+    "type_command": "greeting"
+  },
+  {
+    "command": "woi lek",
+    "type_command": "greeting"
+  },
+  {
+    "command": "boleh kenalan",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama kamu siapa",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "kamu ini apa",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "kamu siapa",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "boleh tau namamu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "kamu siapa namanya",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "siapa nama kamu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "boleh tau siapa namamu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "boleh tahu siapa namamu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "boleh tau namamu siapa",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "kamu namanya siapa",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "siapa namanya kamu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "boleh kenalan denganmu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "boleh tahu namamu siapa",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "boleh kenalan dengan namamu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "boleh tahu namamu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "boleh kenalan denganmu siapa",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "boleh kenalan dengan namamu siapa",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "siapa namamu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "siapa kamu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "aku ingin tahu namamu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa nama kamu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "bagaimana aku memanggilmu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa kamu bisa memperkenalkan diri",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "namamu siapa",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "bisakah aku tahu namamu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa nama lengkapmu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "boleh tahu nama lengkapmu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "kenalan yuk siapa namamu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "saya ingin mengenalmu siapa namamu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "boleh aku tahu namamu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "ceritakan tentang dirimu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "siapa identitasmu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "ingin tahu namamu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "beri tahu aku namamu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "aku penasaran siapa namamu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lengkap kamu siapa",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "siapa kamu sebenarnya",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "bisa aku tahu namamu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa identitasmu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "bisa memperkenalkan diri",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "boleh kenalan lebih dekat",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "aku ingin tahu lebih tentangmu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "siapa nama panggilanmu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "boleh tahu nama panggilanmu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa julukanmu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "kenalan yuk",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "boleh aku kenalan",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa yang bisa kupanggil kamu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "bisa kasih tahu namamu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa kamu mau kenalan",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "bisa cerita sedikit tentangmu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa nama keluargamu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "boleh tahu nama keluargamu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "siapa nama aslimu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "bisa beri tahu siapa namamu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "mau kenalan",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "bisa tahu lebih banyak tentangmu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "siapa diri kamu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa kamu bisa beri tahu namamu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa kamu mau cerita tentang dirimu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "bisa beri tahu identitasmu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa nama yang biasa dipanggil",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "siapa nama yang biasa kamu gunakan",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "boleh tahu bagaimana aku memanggilmu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa nama yang kamu sukai",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa yang harus aku panggil",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "bisa beri tahu cara memanggilmu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa nama kecilmu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "boleh tahu nama kecilmu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa nama akrabmu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "bisakah kita kenalan",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa aku bisa tahu lebih banyak",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa aku bisa tahu siapa dirimu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa aku bisa tahu namamu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa aku bisa tahu lebih banyak tentangmu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa aku bisa tahu siapa kamu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa aku bisa tahu identitasmu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa aku bisa tahu nama aslimu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa aku bisa tahu nama kecilmu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa aku bisa tahu nama panggilanmu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa aku bisa tahu nama keluargamu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa aku bisa tahu nama lengkapmu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa aku bisa tahu lebih banyak tentang dirimu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa aku bisa tahu tentang dirimu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa aku bisa tahu siapa kamu sebenarnya",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa aku bisa tahu siapa yang sebenarnya",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa aku bisa tahu siapa yang ada di balik nama ini",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa aku bisa tahu siapa yang ada di balik identitas ini",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa aku bisa tahu siapa yang ada di balik nama panggilan ini",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa aku bisa tahu siapa yang ada di balik nama kecil ini",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa aku bisa tahu siapa yang ada di balik nama lengkap ini",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa aku bisa tahu siapa yang ada di balik nama keluarga ini",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa aku bisa tahu siapa yang ada di balik nama akrab ini",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "apa aku bisa tahu siapa yang ada di balik julukan ini",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lu siapa sih",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "woi nama lu siapa",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "eh boleh tau nama lu nggak",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "bro nama lu siapa",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "cuy nama lu siapa nih",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa bro",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama kamu siapa bestie",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "eh nama lo siapa dong",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama aslimu siapa cuy",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "panggilannya siapa nih",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama panggilan lo apa",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa gengs",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa sob",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa bos",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa sis",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa bray",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa men",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa beb",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa brodie",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa sist",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa mate",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa fam",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa kawan",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa rek",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa lur",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa sobat",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa temen",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa coy",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa gaes",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa friend",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa pal",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa squad",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa geng",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa legend",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa superstar",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa idola",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa kak",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa dek",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa bang",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa neng",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa mas",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa mbak",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa om",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa tante",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa bossque",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa juragan",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa sultan",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa ratu",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa pangeran",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa cewek kece",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa cowok keren",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa anak hits",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa anak gaul",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa anak senja",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa anak indie",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa anak tongkrongan",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa anak rumahan",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa anak motor",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa anak futsal",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa anak basket",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "nama lo siapa anak gaming",
+    "type_command": "bot_ask_name"
+  },
+  {
+    "command": "terimakasih",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "thanks",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "tks",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasih",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "thx",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "trimakasih",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terimakasih banyak",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasih banyak",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih banyak",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "trimakasih banyak",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terimakasih banget",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasih banget",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih banget",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "trimakasih banget",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terimakasih sebanyak banyaknya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasih sebanyak banyaknya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih sebanyak banyaknya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "trimakasih sebanyak banyaknya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terimakasih sebesar besarnya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasih sebesar besarnya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih sebesar besarnya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "trimakasih sebesar besarnya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terimakasih setulus tulusnya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasih setulus tulusnya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih setulus tulusnya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "trimakasih setulus tulusnya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terimakasih seikhlas ikhlasnya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasih seikhlas ikhlasnya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih seikhlas ikhlasnya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "trimakasih seikhlas ikhlasnya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasih ya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "thank you",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "thanks a lot",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "tq",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "thanks ya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "trims",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "trmksh",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "mksh",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasii",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "mksih",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makaci",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasihhh",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terimakasiiih",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "ty",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "tysm",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "thx ya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "thankies",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "thaaaanks",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "big thanks",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "many thanks",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "thanks so much",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "i appreciate it",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "much appreciated",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "appreciated",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "thanks a bunch",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "thx a lot",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "thx sm",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "gracias",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "arigato",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "merci",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "tx",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "tengkyu",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "tenkyu",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "tankyu",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "tqsm",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makacii",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "macee",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasiy",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makaciw",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "trimaacih",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "trims banget",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasiyh",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasihh loh",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "cih makasih",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasayank",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makash",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasii cuy",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasiiihhh",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "tq yah",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "tq beb",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "macek",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "mace",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "trims yee",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "thanksyuuu",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasyuuu",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makacip",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makashi",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makacyuu",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasay",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "trims bangettt",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasiiiii",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasih beut",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "maceeee",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makacie",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "macegak",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makassii",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasshhh",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makassy",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasiiuwu",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasyayank",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "mashook makasih",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makacibii",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasii dongs",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makacipir",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "trims yahh",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makaciz",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "tengkiyuu",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "tankyuu",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasii beib",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makacint",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasayy",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasiiih syg",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih sudah dibantu",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasih ya sudah dibantu",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih banyak sudah dibantu",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasih banyak sudah dibantu",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasih atas bantuannya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih atas bantuannya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasih ya atas bantuannya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasih banget sudah dibantu",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih ya sudah dibantu",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasih ya bantuan dan waktunya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih atas bantuan dan waktunya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasih ya sudah membantu",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih sudah membantu",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "makasih banget ya sudah membantu",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "saya ucapkan terima kasih atas bantuannya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih atas waktu yang telah diberikan",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih atas perhatian dan bantuannya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih banyak atas dukungan anda",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "saya sangat menghargai bantuan anda",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih atas kerja sama yang baik",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih sudah meluangkan waktu",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih atas penjelasannya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih atas kesabarannya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih atas informasinya yang berguna",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "saya berterima kasih atas segala bantuan",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih banyak atas respon cepatnya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih atas perhatian anda selama ini",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "saya ucapkan terima kasih atas kerja kerasnya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih atas konfirmasi yang diberikan",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih atas masukan yang sangat membantu",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih atas dukungan dan kerja samanya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih sudah membantu menyelesaikan masalah",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih sudah memperhatikan permintaan saya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "saya sangat berterima kasih atas bantuan anda",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih atas kesediaannya membantu",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih atas segala perhatian anda",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih banyak atas kerjasamanya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih atas komitmen dan dedikasinya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih atas pengertiannya selama ini",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih atas dukungan yang diberikan",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "saya ucapkan terima kasih atas pelayanan yang baik",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih sudah menjadi bagian dari proses ini",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "terima kasih atas kesabaran dan bantuannya",
+    "type_command": "thank_you"
+  },
+  {
+    "command": "apa fungsi kamu",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "kamu dibuat oleh siapa",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "versi bot kamu berapa",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "apa tugas kamu",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "bot ini buat apa",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "jelaskan tentang kamu",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "apa nama bot ini",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "bot ini siapa pembuatnya",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "kamu bot apa",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "apa kemampuan kamu",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "kamu bisa apa",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "berapa usia kamu",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "kamu diciptakan kapan",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "apa kamu pintar",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "apa kelebihan bot ini",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "kamu dibuat dari apa",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "siapa developer bot ini",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "bot ini versi berapa",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "apa tujuan kamu dibuat",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "kamu bisa bantu apa saja",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "apa saja fitur bot ini",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "kamu bisa jawab apa",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "boleh tahu kamu dibuat oleh siapa ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "apa fungsi utama kamu sebagai bot ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "dapatkah kamu menjelaskan kemampuanmu ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "siapa pengembang kamu ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "apa tujuan kamu dibuat ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "apakah kamu punya dokumentasi penggunaan ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "bisa jelaskan sedikit tentang dirimu ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "kamu menggunakan teknologi apa ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "apa saja fitur yang kamu miliki ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "bagaimana cara kerja kamu ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "siapa pencipta kamu ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "bisakah kamu bantu saya memahami kamu lebih dalam ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "apakah kamu terhubung dengan ai ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "berapa lama kamu sudah dikembangkan ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "apa saja yang bisa kamu lakukan ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "siapa yang mengoperasikan kamu ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "boleh saya tahu lebih banyak tentangmu ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "dapatkah kamu memperkenalkan sistemmu ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "kamu dikembangkan oleh tim atau individu ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "apakah kamu selalu aktif ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "kapan kamu mulai digunakan ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "di mana kamu di hosting ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "apa framework yang digunakan untuk membuat kamu ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "apakah kamu bisa terus belajar ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "apakah kamu open source ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "siapa yang memelihara sistem kamu ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "dapatkah kamu memberitahu saya siapa dirimu sebenarnya ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "apakah kamu aman untuk digunakan ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "bagaimana privasi pengguna dijaga olehmu ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "lu bot apaan sih sebenernya ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "kamu tuh buatan siapa sih ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "kerjaan lu apaan sih bot ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "lu bisa ngapain aja nih ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "siapa yang bikin kamu  bot ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "kamu tuh sebenernya buat apa sih ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "eh bot  lu ngerti teknologi gak ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "ceritain dong tentang diri lu",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "lu anak siapa sih ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "kamu asalnya dari mana sih ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "lu ai apa bukan sih ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "sistem kamu ribet gak sih ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "ada fitur keren apa aja dari kamu ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "lu udah hidup dari kapan ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "lu tuh beneran pinter gak sih ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "lu bisa bantuin apa aja nih ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "gua bisa pake lu buat apa aja nih ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "kerjaannya tiap hari ngapain sih lu ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "lu pake teknologi apaan sih ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "siapa yg jagain sistem kamu ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "lu bot open source gak sih ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "eh  hosting kamu di mana sih ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "framework yang dipake buat kamu apaan ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "lu bisa update sendiri gak sih ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "kalo error  siapa yg benerin kamu ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "lu aman buat dipake gak sih ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "gua penasaran  kamu tuh siapa sih sebenernya ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "gua pengen kenalan lebih jauh nih sama lu",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "gaya banget lu  tapi sebenernya siapa sih ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "kamu bot apa ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "lu tuh siapa sih sebenernya ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "boleh tahu kamu dibuat pakai apa ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "dijelasin dong kamu bot apa",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "eh bot  kerjaan lu ngapain aja ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "lu bisa bantuin apaan aja sih ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "kamu dibuat oleh siapa ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "sebenarnya kamu ini buatan siapa sih ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "jelasin dong  kamu ai ya ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "lu tuh kerjaannya apa dah ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "fitur kamu ada apa aja ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "kamu pakai teknologi apa ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "gimana cara kamu bisa jawab gitu sih ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "lu open source gak sih ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "lu pake ai ya  keren juga",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "kamu bot buatan anak bangsa ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "kamu dibikin pakai bahasa apa sih ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "lu ada fitur canggih gak ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "siapa yang rawat kamu kalo error ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "lu update sendiri gak sih ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "lu dihosting di mana sih ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "gua penasaran lu tuh siapa sih ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "kamu bisa bantuin aku ngapain aja ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "eh  asal muasal kamu gimana ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "kamu sistem kayak gimana sih ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "ngomong ngomong  kamu siapa sih ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "eh bot  lu anak siapa sih ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "jelasin dong tentang diri kamu",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "apa sih kemampuan utamamu ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "who are you ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "what kind of bot are you ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "tell me about yourself",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "can you bot_ask_name yourself ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "what can you do ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "what s your function ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "what are your features ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "are you an ai ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "what do you do ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "who created you ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "how were you made ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "what s your purpose ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "are you smart ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "how do you work ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "are you a chatbot ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "can you explain what you are ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "how do you function ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "what tech do you use ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "are you powered by ai ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "what kind of assistant are you ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "tell me who built you",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "can you describe yourself ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "what s your role ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "are you human ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "do you have a name ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "are you free to use ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "do you run on the cloud ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "where are you hosted ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "are you open source ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "how can i use you ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "do you have any limitations ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "are you always online ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "do you store data ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "are you safe to talk to ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "do you have emotions ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "can you think ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "are you sentient ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "do you have a personality ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "how intelligent are you ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "are you better than google ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "are you customizable ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "do you support voice ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "are you like chatgpt ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "how do you answer questions ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "do you use machine learning ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "what data do you collect ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "do you have access to the internet ",
+    "type_command": "bot_info"
+  },
+  {
+    "command": "bikin aku ketawa dong",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "ceritain lelucon",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "ayo bercanda yuk",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "kasih aku jokes",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "joke please",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "bisa gak kamu ngelucu ",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "bikin aku ngakak",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "aku butuh humor",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "canda lucu dong",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "kamu bisa bikin lelucon ",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "bagi jokes lucu",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "tell me a joke",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "i want to laugh",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "make me laugh",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "do you know any jokes ",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "give me something funny",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "ngakak yuk",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "ayo lucu lucuan",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "bercanda dong  serius amat",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "canda mulu kamu",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "canda lucu kayak ai",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "standup comedy time",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "bikin punchline dong",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "aku bosan  hibur aku",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "guyonan dikit dong",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "kasih joke receh",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "coba lempar jokes garing",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "mau denger joke norak",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "boleh dong candaannya",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "please tell me something silly",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "i need a laugh",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "what\u00e2  s the funniest joke you know ",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "bisa kasih aku satu guyonan ",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "ayo kasih tebak tebakan lucu",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "lucuin aku dong",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "sumpah boring banget  jokes plis",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "lempar lawakan",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "ngakak in aku dong",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "candaannya mana nih",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "lawakan fresh dong",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "aku pengen denger jokes kamu",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "aku pengen ketawa",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "give me a dumb joke",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "you got any dad jokes ",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "silly joke please",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "tell me a pun",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "i need a stupid joke",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "roast me but funny",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "make a meme out of this moment",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "aku butuh hiburan nih",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "kasih aku jokes gokil",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "bikin aku ngakak parah",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "coba tebak tebakan lucu",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "aku pengen lawakannya fresh",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "jangan garing ya",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "throw me a joke",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "anything funny ",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "please joke around",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "tell me something hilarious",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "bikin lawakan receh dong",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "bosen nih  ada joke ",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "candaannya jangan basi",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "make me laugh hard",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "give me a silly pun",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "bisa kasih jokes ai ",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "pengen jokes teknologi",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "lempar guyonan ai",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "tell me a punny joke",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "cerita lucu dong",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "aku perlu jokes ringan",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "give me a corny joke",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "aku suka jokes receh",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "kasih lawakan gokil",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "jangan lupa punchline nya",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "please make a funny pun",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "aku butuh jokes buat mood",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "ayo lempar jokes",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "tell me something dumb",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "roast me please",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "funny joke please",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "aku bosan  butuh jokes",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "bisa jadiin meme ",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "buat aku ketawa keras",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "kasih aku jokes singkat",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "cerita jokes yang gokil",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "lawakan ringan dong",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "coba bikin aku ngakak",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "give me some puns",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "please make me laugh",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "bisa kasih jokes receh ",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "tell me a silly joke",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "aku pengen jokes gokil",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "bisa kasih jokes ai lucu ",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "candaannya mana nih ",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "make me laugh now",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "gimana kalau kita bercanda ",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "kasih aku jokes yang bisa bikin ketawa",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "aku mau denger jokes lucu",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "throw me some jokes",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "ayo lawak yuk",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "beri aku joke yang gokil",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "butuh jokes receh nih",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "let s hear some jokes",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "tell me a joke now",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "jokes receh aja boleh",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "kasih guyonan yang ringan",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "please  jokes ",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "fun jokes please",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "aku pengen lawak yang fresh",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "siap siap ketawa ya",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "beri aku jokes kocak",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "let me laugh please",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "bikin aku ngakak dong",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "mau denger jokes yang gokil",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "throw some jokes here",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "do you have jokes ",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "aku bosan  kasi jokes dong",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "please tell me jokes",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "butuh hiburan nih  jokes ya",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "let s joke around",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "jokes apa nih ",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "aku mau denger jokes receh",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "ada jokes baru gak ",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "kasih aku jokes yang bikin ngakak",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "ayo dong  lawak satu",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "bisa kasih aku jokes lucu gak ",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "please  give me a funny joke",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "need a good laugh  tell me a joke",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "aku pengen jokes gokil nih",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "any funny jokes ",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "tell me a joke that makes me laugh",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "ayo ceritain jokes lucu dong",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "kasih aku guyonan receh",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "throw me a hilarious joke",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "mau denger jokes gokil",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "aku butuh jokes nih",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "lets joke ",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "share a funny joke please",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "ada lawakan gak hari ini ",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "can you joke with me ",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "aku pengen guyon nih",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "please tell me something funny",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "kasih guyonan yang lucu ya",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "let s laugh together",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "aku mau jokes yang gokil",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "tell me a good one",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "kasih jokes yang bikin ngakak",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "ayo dong ceritain lawakan",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "aku pengen jokes receh",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "please share a funny story",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "bikin aku ketawa ya",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "need some humor here",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "kasih guyonan gokil dong",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "tell me something funny",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "mau denger jokes singkat",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "share a quick joke",
+    "type_command": "make_a_joke"
+  },
+  {
+    "command": "tolong ulangi lagi  ya ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "apa tadi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "saya kurang menangkap  bisa diulang ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bisa dijelaskan lagi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "maaf  saya tidak dengar tadi  bisa diulang ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bisa lebih pelan  saya ingin memastikan ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "mohon diulangi  saya belum paham ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bisa ulangi  saya ingin memastikan saya mengerti ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "tolong ulangi  saya tidak yakin saya mengerti ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "maaf  saya tidak menangkap apa yang anda katakan  bisa diulang ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bisa diulang  saya ingin memastikan saya mengerti ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bisakah anda mengulangi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "ulangi  dong ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "saya belum menangkapnya  bisa diulang ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "apa tadi yang kamu bilang ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "mohon ulangi lagi  saya belum jelas ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "kurang jelas  bisa diulangi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "saya ingin memastikan  tolong ulangi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bisa diperjelas lagi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "maaf  saya tidak menangkap tadi  bisa diulang ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "ulangi sekali lagi  ya ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "apa yang barusan kamu katakan ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bisa diulang dari awal ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "saya kurang jelas  bisa dijelaskan lagi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "maaf  saya terlewat  bisa ulangi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "mohon ulangi agar saya bisa memahami lebih baik ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bisa disebutkan lagi dengan lebih detail ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "maaf  saya belum menangkapnya  bisa diulang ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "tolong katakan lagi dengan lebih jelas ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "apa tadi yang kamu bilang  aku kurang jelas ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bisakah anda menyebutkannya lagi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "saya ingin memastikan  bisa ulangi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "coba ulangi lagi dari awal ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "saya tidak begitu paham  bisa dijelaskan lebih detail ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "maaf  saya terlewat  tolong ulangi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "mohon maaf  bisa diulang sekali lagi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "saya masih kurang jelas  tolong ulangi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bisakah anda mengatakannya dengan cara lain ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "ulangi dengan lebih detail  ya ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "saya ingin memastikannya  bisa diulang ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bisa diperjelas supaya lebih mudah dipahami ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "apa tadi  saya terlewat ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "coba sebutkan lagi  saya ingin memastikan ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "saya tidak begitu menangkapnya  bisa diulang ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "boleh diulang agar lebih jelas ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "tolong ulangi dengan pelan  saya ingin memahami dengan baik ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "maaf  tadi kurang terdengar  bisa disebutkan lagi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bisa diulangi dengan kata kata lain ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "saya ingin memastikan tidak salah paham  mohon ulangi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "coba ulang sekali lagi  saya masih belum yakin ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "apa tadi yang kamu katakan  bisa ulangi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bisa ulangi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "tolong ulangi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "kurang jelas  ulangi lagi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "mohon diulang ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "coba ulangi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bisa diperjelas ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "ulangi lagi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bisa diulang ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "kurang jelas ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "coba ulang ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "mohon ulang ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "sekali lagi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "tolong ulangi",
+    "type_command": "repeat"
+  },
+  {
+    "command": "ulangi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bisa ulang ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "tolong ulang ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "ulangin  cuy ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "eh  apa tadi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bisa diulang  bro ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "ulangi dong  plis ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "maaf  gue nggak nangkep  bisa ulangi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "coba ngomong lagi  gue kelewat ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "eh  bisa lu ulang gak ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "gue miss  ulang lagi ya ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "kurang jelas  coba bilang lagi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bro  ulangi tadi dong ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "gue ga denger  bisa lu ulang ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "waduh  kelewat  bisa ulang ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "eh  ngomong lagi deh  biar gue ngerti ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "cuy  ulangi dong ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "anjir  apa tadi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "lu ngomong apa barusan ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "eh  sori  bisa ulangin ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "kasih tau lagi  gue kelewat ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bilang lagi dong ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "kurang nangkep  ulangi plis ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "tadi apaan sih  ulang dong ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "gue butuh pengulangan nih ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "lu bisa ngomong lagi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "coba lu ulangin dengan lebih santai ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "plis ulangi  gue gak ngerti ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "eh  barusan lu ngomong apa ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bisa ngomong lebih pelan ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "coba ulang  gue kelewat ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "apa tadi  bro ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "tolong ulangi  gue gak nangkep ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "ulangi dengan kata lain deh ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "anjir  otak gue blank  ulang ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "eh  ngomong lagi plis ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bisa lo ulang pelan pelan ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bro  ulangin tadi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "cuy  tolong ulang  deh ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "ulangi aja  biar gue paham ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "gue miss  ulang plis ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bilang ulang lagi dong ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "lu bisa ulang pake bahasa lain ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "coba ulang tapi lebih jelas ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "apa sih tadi  gue miss ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bisa ngomong dari awal ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "apa tadi lu bilang ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "kayaknya tadi gue ga denger  ulangi dong ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bilang sekali lagi dong ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "ulangi biar gue nangkep ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "plis  bisa ulang ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "eh sori  bisa ngomong lagi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "apa sih tadi  ulang dong ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bro  bisa lu ulang tadi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "eh  bisa sebutin lagi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "lu ngomong apa tadi  ga kedengeran ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bisa bilang lebih jelas ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "tolong ulang  gue gak paham ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "ulang lagi dengan slow motion ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "apa tadi  ulang dengan volume max ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bisa ulangin dengan gaya lebih kece ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "eh bro  bilang lagi dong ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "aduh  miss  ulang dong ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "sekali lagi biar gue paham ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "lu ngomong apa tadi  gue kelewat ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "ulang dong  gue nggak nangkep ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "eh  ulangin lagi dong ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "kayaknya tadi gue skip  bisa ulang ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "lu bisa jelasin lagi ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "ulangi pake bahasa lebih santai ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bro  tadi bilang apa ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "ulang pelan pelan biar gue ngerti ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bisa lo ulang pake logat lain ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "ulang lagi dengan style beda dong ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "coba diulang pake intonasi keren ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bisa lo ulang dari awal ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "eh  ulang dong  kali aja gue ngerti ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "tolong ulang  tadi buru buru ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "plis ulangi  biar gue nggak bingung ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "coba ulang tapi lebih pelan ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "eh  bisa ulang pake slang yang beda ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "tolong ulang dengan gaya yang beda ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "apa tadi  bisa bilang ulang ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "ulang dong  gue lagi nggak fokus ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bro  ulang pake bahasa lebih gampang ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "coba ulang dengan lebih santai ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "eh  tadi lu ngomong apa ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "apa tadi  bisa ngomong ulang ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "ulang sekali lagi  bro ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "eh  bisa lo ulang lebih jelas ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "plis ulang  gue kelewat tadi",
+    "type_command": "repeat"
+  },
+  {
+    "command": "apa tadi  gue nggak fokus ",
+    "type_command": "repeat"
+  },
+  {
+    "command": "bisa tebak siapa namaku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "coba nebak namaku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "menurut kamu  nama aku apa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "tebak  aku siapa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "ada ide nama aku apa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "kira kira aku bernama apa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "bisa tebak nama aku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "coba deh  siapa nama aku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "apa menurutmu nama aku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "mau coba nebak nama aku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "menurutmu  siapa aku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "kira kira namaku apa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "coba tebak  siapa aku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "tebak dulu  aku siapa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "gimana kalau kamu coba nebak namaku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "aku penasaran  menurutmu aku bernama apa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "boleh tebak tebakan  siapa namaku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "kalau melihat aku  kira kira siapa namaku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "coba pikirkan  namaku apa ya ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "aku siapa menurutmu ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "bisa nebak nama yang cocok buat aku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "kamu ada tebakan soal nama aku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "kalau kamu harus menebak  nama aku apa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "gimana kalau kamu coba tebak siapa aku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "coba deh  kasih tebakan nama buat aku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "kalau kamu harus nebak  siapa aku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "menurutmu  namaku apa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "boleh tebak tebakan nama aku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "kamu bisa nebak siapa aku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "ada tebakan untuk nama aku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "kalau lihat aku  kira kira namaku siapa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "coba tebak  nama aku cocoknya apa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "kira kira aku punya nama apa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "gimana kalau kamu coba tebak namaku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "menurut feeling kamu  siapa aku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "kalau aku kasih hint  bisa tebak namaku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "kalau dari wajahku  kira kira aku bernama apa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "siapa aku menurut tebakanmu ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "penasaran kamu bisa nebak nama aku nggak ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "menurutmu  aku lebih cocok dipanggil apa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "siapa aku menurutmu ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "kalau kamu harus kasih tebakan  nama aku apa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "kalau lihat gaya aku  namaku kira kira apa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "menurutmu  aku lebih cocok disebut siapa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "punya tebakan soal nama aku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "coba tebak  siapa yang sedang bicara ini ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "bisa tebak dari gaya aku  siapa namaku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "penasaran apakah kamu bisa tebak nama aku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "kalau kamu lihat aku  siapa aku menurutmu ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "siapa aku kalau harus nebak ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "kalau aku kasih clue  bisa tebak namaku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "coba pikirkan  kira kira aku siapa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "kalau kamu lihat gaya aku  siapa aku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "bisa tebak nama yang pas buat aku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "kalau aku kasih sedikit petunjuk  bisa nebak ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "bisa tebak siapa aku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "aku penasaran  bisa nebak namaku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "apa tebakanmu tentang nama aku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "kalau kamu harus menebak  siapa aku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "kalau lihat aku  kira kira siapa aku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "siapa aku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "coba tebak namaku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "menurutmu  aku siapa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "aku siapa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "apa nama aku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "namaku siapa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "coba pikirkan  siapa aku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "siapa namaku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "coba tebak  aku siapa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "menurutmu  aku bernama apa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "kira kira aku siapa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "menurutmu  aku punya nama apa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "kalau aku kasih petunjuk  bisa tebak ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "kalau dari gaya aku  kira kira siapa aku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "siapa nama aku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "coba tebak  siapa aku sebenarnya ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "aku ingin tahu  bisa tebak siapa aku ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "siapa aku kalau kamu harus menebak ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "eh cuy  coba tebak  gue siapa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "bro  kira kira nama gue apa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "bisa nebak  gue siapa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "menurut lo  nama gue siapa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "woi  tebak dulu  nama gue siapa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "jangan jangan lo tau nama gue ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "gas tebak nama gue  dong ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "fix lo tau nama gue  kan ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "coba nebak  siapa gue ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "apa tebakan lo tentang nama gue ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "kalo feeling lo kuat  nama gue apa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "gimana kalau lo coba nebak siapa gue ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "kalau dari vibe gue  nama gue apa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "coba lo pikirin  gue siapa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "lo pasti bisa nebak nama gue ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "menurut insting lo  gue siapa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "nih  lo coba tebak  gue siapa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "tebak dulu sebelum gue kasih tahu ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "nama gue harusnya lo udah tahu  kan ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "bro  jangan bingung  tebak nama gue ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "apa nama gue menurut tebakan lo ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "nama gue kayaknya gampang ditebak  kan ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "coba pikir pikir lagi  gue siapa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "lo pasti udah punya tebakan soal nama gue ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "ayo  tebak nama gue sebelum gue spill ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "menurut feeling lo  nama gue cocoknya apa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "kalau lo harus nebak  kira kira nama gue siapa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "bisa gak lo nebak siapa gue ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "apa nama gue kalau harus nebak ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "menurut lo  nama yang pas buat gue apa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "kalau dari gaya gue  kira kira gue siapa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "serius  lo gak bisa nebak nama gue ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "gaskeun  tebak nama gue ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "nama gue apa menurut versi lo ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "coba pikir  gue siapa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "ayo  coba kasih tebakan nama buat gue ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "lo yakin gak nama gue itu ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "kira kira nama gue ada di pikiran lo gak ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "kalau lo bisa nebak  gue traktir nanti ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "gimana kalau tebak tebakan nama dulu ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "kira kira  siapa gue kalau harus nebak ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "kalau gue kasih sedikit clue  bisa nebak ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "lo bisa nebak nama gue gak tanpa petunjuk ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "bro  masa nama gue susah ditebak sih ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "fix  nama gue udah pernah lo dengar ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "tebak nama gue sebelum gue kasih tahu ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "eh  bisa nebak nama gue ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "coba tebak  gue siapa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "menurut lo  nama gue apa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "gas tebak nama gue  bro ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "apa tebakan lo soal nama gue ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "lo bisa nebak siapa gue ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "kira kira nama gue apa ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "eh  coba tebak nama gue ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "can you guess my name ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "try to guess my name ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "what do you think my name is ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "take a wild guess what s my name ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "do you have any idea what my name is ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "if you had to guess  what would you call me ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "what name suits me best ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "guess what my name is ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "can you figure out my name ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "what do i look like  guess my name ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "i bet you can t guess my name ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "try guessing my name ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "what name comes to mind when you see me ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "if you had to guess  what would you say ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "what do you think my name could be ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "give it a shot what s my name ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "what name do you think fits me ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "take a guess  what s my name ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "what do you think i m called ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "can you take a guess at my name ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "what s your best guess for my name ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "if you had to name me  what would it be ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "what do you think my name sounds like ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "guess my name  i dare you ",
+    "type_command": "guess_name_user"
+  },
+  {
+    "command": "terima kasih  saya butuh bantuan ",
+    "type_command": "yes_response"
+  },
+  {
+    "command": "ya  tolong bantu saya ",
+    "type_command": "yes_response"
+  },
+  {
+    "command": "silakan  saya membutuhkan bantuan anda ",
+    "type_command": "yes_response"
+  },
+  {
+    "command": "oke  bantuin dong ",
+    "type_command": "yes_response"
+  },
+  {
+    "command": "ya  aku butuh bantuan nih ",
+    "type_command": "yes_response"
+  },
+  {
+    "command": "sip  kasih tahu aku ",
+    "type_command": "yes_response"
+  },
+  {
+    "command": "gas bantuin ",
+    "type_command": "yes_response"
+  },
+  {
+    "command": "mantap  yuk bantu ",
+    "type_command": "yes_response"
+  },
+  {
+    "command": "cus  kasih tahu aja ",
+    "type_command": "yes_response"
+  },
+  {
+    "command": "tentu  aku butuh bantuan sekarang ",
+    "type_command": "yes_response"
+  },
+  {
+    "command": "pastinya  ayo bantu aku ",
+    "type_command": "yes_response"
+  },
+  {
+    "command": "let s go  aku butuh arahan ",
+    "type_command": "yes_response"
+  },
+  {
+    "command": "yess  beri aku info dong ",
+    "type_command": "yes_response"
+  },
+  {
+    "command": "gasskeun  aku siap dibantu ",
+    "type_command": "yes_response"
+  },
+  {
+    "command": "tolong  aku butuh bantuan ",
+    "type_command": "yes_response"
+  },
+  {
+    "command": "bantuin aku dong ",
+    "type_command": "yes_response"
+  },
+  {
+    "command": "makasih  kasih tahu aku lebih lanjut ",
+    "type_command": "yes_response"
+  },
+  {
+    "command": "aku beneran butuh bantuan sekarang ",
+    "type_command": "yes_response"
+  },
+  {
+    "command": "ayo bantu aku dengan ini ",
+    "type_command": "yes_response"
+  }
+]

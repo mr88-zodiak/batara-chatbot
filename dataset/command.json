@@ -1,0 +1,1250 @@
+[
+  {
+    "command": "Hai",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Selamat pagi",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Selamat siang",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Selamat sore",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Selamat malam",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Selamat datang",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Apa kabar",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Selamat pagi",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Selamat siang",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Selamat sore",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Selamat malam",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Assalamu'alaikum",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Wa'alaikumsalam",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Salam sejahtera",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Salam hormat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Salam kenal",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Salam hangat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai semuanya",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo semuanya",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai teman-teman",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo teman-teman",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai sahabat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo sahabat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai kawan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo kawan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai rekan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo rekan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai sobat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo sobat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai saudara",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo saudara",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai pak",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo pak",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai bu",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo bu",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai mas",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo mas",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai mbak",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo mbak",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai kakak",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo kakak",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai adik",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo adik",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai bapak",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo bapak",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai ibu",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo ibu",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai abang",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo abang",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai nona",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo nona",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai tuan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo tuan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai nyonya",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo nyonya",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai om",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo om",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai tante",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo tante",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai bos",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo bos",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai teman",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo teman",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai semuanya",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo semuanya",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai rakyat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo rakyat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai orang-orang",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo orang-orang",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai masyarakat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo masyarakat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai warga",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo warga",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai saudari",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo saudari",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai bapak ibu",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo bapak ibu",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai bapak ibu sekalian",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo bapak ibu sekalian",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai bapak ibu dan saudara-saudara sekalian",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo bapak ibu dan saudara-saudara sekalian",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai bapak ibu dan saudara-saudara",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo bapak ibu dan saudara-saudara",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai bapak ibu dan saudara",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo bapak ibu dan saudara",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai bapak ibu dan adik-adik",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo bapak ibu dan adik-adik",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai bapak ibu dan rekan-rekan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo bapak ibu dan rekan-rekan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai bapak ibu dan teman-teman",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo bapak ibu dan teman-teman",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai bapak ibu dan sahabat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo bapak ibu dan sahabat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai bapak ibu dan kawan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo bapak ibu dan kawan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai bapak ibu dan sobat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo bapak ibu dan sobat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai bapak ibu dan saudara-saudara sekalian",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo bapak ibu dan saudara-saudara sekalian",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai bapak ibu dan seluruh masyarakat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo bapak ibu dan seluruh masyarakat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai bapak ibu dan seluruh warga",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo bapak ibu dan seluruh warga",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai bapak ibu dan seluruh saudara",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo bapak ibu dan seluruh saudara",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai bapak ibu dan seluruh sahabat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo bapak ibu dan seluruh sahabat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai bapak ibu dan seluruh teman",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo bapak ibu dan seluruh teman",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai seluruh sahabat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo seluruh sahabat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai seluruh kawan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo seluruh kawan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai seluruh teman",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo seluruh teman",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai seluruh sobat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo seluruh sobat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai seluruh saudara",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo seluruh saudara",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai seluruh rekan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo seluruh rekan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai seluruh rakyat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo seluruh rakyat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai seluruh masyarakat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo seluruh masyarakat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai seluruh warga",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo seluruh warga",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Selamat pagi",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Selamat siang",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Selamat sore",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Selamat malam",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Selamat datang",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Apa kabar",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Selamat pagi",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Selamat siang",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Selamat sore",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Selamat malam",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Assalamu'alaikum",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Wa'alaikumsalam",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Salam sejahtera",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Salam hormat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Salam kenal",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Salam hangat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai semuanya",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo semuanya",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai teman-teman",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo teman-teman",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai sahabat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo sahabat",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai kawan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo kawan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Hai rekan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "Halo rekan",
+    "type_command": "greeting"
+  },
+  {
+    "command": "boleh kenalan",
+    "type_command": "introduce"
+  },
+  {
+    "command": "nama kamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "kamu ini apa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "kamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "nama kamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "kamu siapa namanya",
+    "type_command": "introduce"
+  },
+  {
+    "command": "siapa nama kamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tahu siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau namamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "kamu namanya siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "siapa namanya kamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh kenalan denganmu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau namamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tahu siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tahu namamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh kenalan dengan namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tahu namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tahu siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh kenalan denganmu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh kenalan dengan namamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh kenalan",
+    "type_command": "introduce"
+  },
+  {
+    "command": "nama kamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "kamu ini apa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "kamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "nama kamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "kamu siapa namanya",
+    "type_command": "introduce"
+  },
+  {
+    "command": "siapa nama kamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tahu siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau namamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "kamu namanya siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "siapa namanya kamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh kenalan denganmu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau namamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tahu siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tahu namamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh kenalan dengan namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tahu namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tahu siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh kenalan denganmu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh kenalan dengan namamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh kenalan",
+    "type_command": "introduce"
+  },
+  {
+    "command": "nama kamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "kamu ini apa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "kamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "nama kamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "kamu siapa namanya",
+    "type_command": "introduce"
+  },
+  {
+    "command": "siapa nama kamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tahu siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau namamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "kamu namanya siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "siapa namanya kamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh kenalan denganmu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau namamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tahu siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tahu namamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh kenalan dengan namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tahu namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tahu siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh kenalan denganmu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh kenalan dengan namamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh kenalan",
+    "type_command": "introduce"
+  },
+  {
+    "command": "nama kamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "kamu ini apa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "kamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "nama kamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "kamu siapa namanya",
+    "type_command": "introduce"
+  },
+  {
+    "command": "siapa nama kamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tahu siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau namamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "kamu namanya siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "siapa namanya kamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh kenalan denganmu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau namamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tahu siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tahu namamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh kenalan dengan namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tahu namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tahu siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh kenalan denganmu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh kenalan dengan namamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh kenalan",
+    "type_command": "introduce"
+  },
+  {
+    "command": "nama kamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "kamu ini apa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "kamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "nama kamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "kamu siapa namanya",
+    "type_command": "introduce"
+  },
+  {
+    "command": "siapa nama kamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tahu siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau namamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "kamu namanya siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "siapa namanya kamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh kenalan denganmu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau namamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tahu siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tahu namamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh kenalan dengan namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tahu namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tahu siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh kenalan denganmu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh kenalan dengan namamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh kenalan",
+    "type_command": "introduce"
+  },
+  {
+    "command": "nama kamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "kamu ini apa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "kamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "nama kamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "kamu siapa namanya",
+    "type_command": "introduce"
+  },
+  {
+    "command": "siapa nama kamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tahu siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau namamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "kamu namanya siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "siapa namanya kamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh kenalan denganmu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau namamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tahu siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tahu namamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh kenalan dengan namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tahu namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tahu siapa namamu",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh kenalan denganmu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh kenalan dengan namamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh kenalan",
+    "type_command": "introduce"
+  },
+  {
+    "command": "nama kamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "kamu ini apa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "kamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "nama kamu siapa",
+    "type_command": "introduce"
+  },
+  {
+    "command": "boleh tau namamu",
+    "type_command": "introduce"
+  }
+]
