@@ -66,7 +66,7 @@ const Batara_fufufafa = () => {
 
       try {
         const res = await fetch(
-          'http://127.0.0.1:5000/Batara_fufufafa/prompt',
+          'https://308744053995.ngrok-free.app/Batara_fufufafa/prompt',
           {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
